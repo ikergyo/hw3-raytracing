@@ -1,0 +1,7 @@
+This is the solved homework for CSE167x.
+
+
+TODO
+ - Refactoring
+ - Make it faster usin acceleration structures
+ - Using multiple threads
